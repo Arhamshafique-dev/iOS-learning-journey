@@ -2,8 +2,7 @@
 My daily progress, notes, and projects while learning iOS development.
 
 ## Structure
-- 📁 Daily-Progress → My daily coding tasks and projects
-- 📁 Notes → have my daily learning updates
+- 📁 Daily-Progress → My daily coding tasks,projects and Notes
 - 📁 Screenshots → Visual proof of daily progress
 - 📄 README.md → About my journey
 
